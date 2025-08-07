@@ -1,5 +1,9 @@
 # 💫 About Me:
-Я занимаюсь изучением ручного тестирования, постепенно углубляясь в мир автоматизации. В процессе освоения QA начал также интересоваться машинным обучением — реализовал несколько проектов, обучал нейросети, разбирался с архитектурами и метриками.<br><br>Параллельно развиваю навык написания статей: стараюсь делиться практическими наблюдениями, интересными кейсами и полезными выводами из собственного опыта.<br><br>- Сейчас совмещаю изучение тестирования с техническим творчеством — хочется соединять качественный подход к проверке ПО с интеллектуальными возможностями ML.
+I am studying manual testing, gradually delving into the world of automation. In the process of mastering QA, I also became interested in machine learning - I implemented several projects, trained neural networks, dealt with architectures and metrics.
+
+In parallel, I am developing the skill of writing articles: I try to share practical observations, interesting cases and useful conclusions from my own experience.
+
+- Now I combine the study of testing with technical creativity - I want to combine a high-quality approach to software testing with the intellectual capabilities of ML.
 
 
 # 📊 GitHub Stats:
